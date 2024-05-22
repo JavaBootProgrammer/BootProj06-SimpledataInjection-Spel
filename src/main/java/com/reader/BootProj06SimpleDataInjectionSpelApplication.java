@@ -1,6 +1,6 @@
-package com.nt;
+package com.reader;
 
-import com.nt.sbeans.DiagnosticCenterDetails;
+import com.reader.sbeans.DiagnosticCenterDetails;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

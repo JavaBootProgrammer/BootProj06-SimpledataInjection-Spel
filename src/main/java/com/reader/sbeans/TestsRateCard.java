@@ -1,4 +1,4 @@
-package com.nt.sbeans;
+package com.reader.sbeans;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;
